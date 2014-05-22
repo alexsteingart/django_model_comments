@@ -16,7 +16,7 @@ from django.contrib.auth.decorators import login_required
 
 from model_comments.forms import CommentForm
 from model_comments.utils import get_form_class_for_object
-from model_comments.utils import Url
+from model_comments.twigutils import Url
 
 
 
