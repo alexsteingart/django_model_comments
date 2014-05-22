@@ -12,9 +12,9 @@ setup(
     package_data={
 	'django_model_comments': [
 			'templates/*.*',
-			'templates/*/*.*,
-			'templates/*/*/*.*,
-			'templates/*/*/*/*.*,
+			'templates/*/*.*',
+			'templates/*/*/*.*',
+			'templates/*/*/*/*.*',
 
 			],
 	},
