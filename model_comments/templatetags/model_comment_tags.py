@@ -12,7 +12,7 @@ from django.template.context import RequestContext
 from model_comments.forms import CommentForm
 from model_comments.models import Comment
 from model_comments.utils import get_form_class_for_object
-from twigcorp.utils import ContextNode
+from model_comments.utils import ContextNode
 
 
 

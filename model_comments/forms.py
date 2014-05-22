@@ -12,7 +12,7 @@ from django.template.loader import render_to_string
 from django.contrib.auth.models import User
 
 from model_comments.models import Comment
-from twigcorp.utils import Url
+from model_comments.utils import Url
 
 
 
